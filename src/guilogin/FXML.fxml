@@ -18,6 +18,6 @@
       <Label fx:id="labelPrompt" alignment="CENTER" layoutY="105.0" prefHeight="17.0" prefWidth="502.0" text="Enter your username and password" />
       <TextField fx:id="textFieldUsername" layoutX="176.0" layoutY="155.0" promptText="Username" />
       <PasswordField fx:id="textFieldPassword" layoutX="176.0" layoutY="188.0" promptText="Password" />
-      <Button alignment="CENTER" layoutX="217.0" layoutY="231.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="66.0" text="Login" />
+      <Button fx:id="buttonLogin" alignment="CENTER" layoutX="217.0" layoutY="231.0" mnemonicParsing="false" onAction="#actionLogin" prefHeight="25.0" prefWidth="66.0" text="Login" />
    </children>
 </AnchorPane>
