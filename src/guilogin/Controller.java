@@ -7,6 +7,10 @@ import javafx.scene.control.Label;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 
+/**
+ * @Author Youmeng Hin
+ * @Version 1.0
+ */
 public class Controller {
 
     @FXML
