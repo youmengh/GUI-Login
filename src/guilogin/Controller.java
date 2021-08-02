@@ -14,7 +14,7 @@ import javafx.scene.control.TextField;
 public class Controller {
 
     @FXML
-    public Button buttonLogin;
+    private Button buttonLogin;
     @FXML
     private Label labelPrompt;
     @FXML
