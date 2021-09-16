@@ -1,6 +1,6 @@
 # GUI-Login
 
- A small authorization application written in Java that emulates the "login" interface.
+ A mini authorization application written in Java that emulates the "login" interface.
  
  How to run:
   1) Head into GUI-Login\executable jar\...
