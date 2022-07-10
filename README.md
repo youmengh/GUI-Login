@@ -1,4 +1,4 @@
-# Login-UI
+# Login UI
 
  A mini authorization application written in Java that emulates the "login" interface and gives authentication.
  
